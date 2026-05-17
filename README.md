@@ -9,11 +9,13 @@ See the full collection at: https://github.com/RZulu54
 * **VB6** (Visual Basic 6): ChessbrainVB (~3125 Elo)
 * **VBA** (Excel Visual Basic for Applications): ExcelChessbrainX (~2600 Elo)
 * **VB.NET** (Visual Basic .NET): ChessbrainVbNet (~3300 Elo)
+* **QB64** (QBASIC 64): ChessbrainQB64 (~2700 Elo)
+* **FreeBasic** : ChessbrainFB (~3150 Elo)
 
 ---
 
 # Usage
-1. Open the file `ExcelChessBrainX_4.05.xlsm`. 
+1. Open the file `ExcelChessBrainX_4.06.xlsm`. 
 2. A full installation of **Microsoft Excel** (32-bit or 64-bit) is required to run the VBA code. No additional files are needed at runtime.
 3. Ensure that **Macros are enabled**. 
 4. If the file is blocked, make sure it is marked as **safe** in the file properties: `Right-click file > Properties > General > Security > Unblock`.
@@ -38,7 +40,7 @@ See the full collection at: https://github.com/RZulu54
 * No support for multiple CPU cores (single-threaded).
 
 # Changes
-**Changes from V4.03a to V4.05:** (Older versions are included in the ChessbrainVB project, also for MS Word and MS Powerpoint)
+**Changes from V4.03a to V4.06:** (Older versions are included in the ChessbrainVB project, also for MS Word and MS Powerpoint) 
 * Added chess clocks.
 * Minor bug fixes and code cleanup.
 
